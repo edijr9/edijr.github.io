@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+   <head>
+<title>Edi Page</title>
+   </head>
+   <body>
+<h1>Site Eng. computação</h1>
+<p>Lop Home Page,
+ <i> Criei um site.</i>
+  <b> NUNCA FIZ ISSO!</b>
+</p>
+  <img src="images.jpg" width="30%"/>
+  <br/>
+<a href="https://guiadoestudante.abril.com.br/profissoes/engenharia-da-computacao/"> Clique aqui para ver mais.</a>
+<br/>
+<br/>
+<iframe width="460" height="315" src="https://www.youtube.com/embed/b7kxtIGaNpw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br/>
+<br/>
+<iframe src="https://giphy.com/embed/559reYufmR0cTPzh1c" width="390" height="280" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/559reYufmR0cTPzh1c">via GIPHY</a></p>
+    <a href="index2.html"> Pagina2</a>
+    </body>
+</html>
